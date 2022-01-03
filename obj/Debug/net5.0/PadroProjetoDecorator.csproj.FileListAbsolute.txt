@@ -1,0 +1,16 @@
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.exe
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.deps.json
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.runtimeconfig.json
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.runtimeconfig.dev.json
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.dll
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\ref\PadroProjetoDecorator.dll
+C:\Users\arqui\Desktop\PadroProjetoDecorator\bin\Debug\net5.0\PadroProjetoDecorator.pdb
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.csproj.AssemblyReference.cache
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.AssemblyInfoInputs.cache
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.AssemblyInfo.cs
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.csproj.CoreCompileInputs.cache
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.dll
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\ref\PadroProjetoDecorator.dll
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.pdb
+C:\Users\arqui\Desktop\PadroProjetoDecorator\obj\Debug\net5.0\PadroProjetoDecorator.genruntimeconfig.cache
